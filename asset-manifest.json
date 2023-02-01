@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/custom-select-react/static/css/main.ea610d18.css",
+    "main.js": "/custom-select-react/static/js/main.8d080a07.js",
+    "index.html": "/custom-select-react/index.html",
+    "main.ea610d18.css.map": "/custom-select-react/static/css/main.ea610d18.css.map",
+    "main.8d080a07.js.map": "/custom-select-react/static/js/main.8d080a07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea610d18.css",
+    "static/js/main.8d080a07.js"
+  ]
+}
